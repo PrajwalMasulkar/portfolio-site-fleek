@@ -1,4 +1,4 @@
-# Portfolio Template
+# Portfolio
 
 ## Technology Stack & Tools
 
